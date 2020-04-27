@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ConvertYouNit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appintro">Selamat Datang di Aplikasi ConvertYouNits!</string>
+    <string name="chooseplease">Silahkan Pilih Jenis Unit yang Akan di Konversikan:</string>
+    <string name="jarak">Jarak</string>
+    <string name="massa">Massa</string>
+    <string name="suhu">Suhu</string>
+    <string name="volume">Volume</string>
+    <string name="mm">Mm \n Milimeter</string>
+    <string name="kosong">0</string>
+    <string name="cm">Cm \n Centimeter</string>
+    <string name="dm">Dm \n Desimeter</string>
+    <string name="m">M \n Meter</string>
+    <string name="km">Km \n Kilometer</string>
+    <string name="celcius">C \n Celcius</string>
+    <string name="kelvin">K \n Kelvin</string>
+    <string name="fahrenheit">F \n Fahrenheit</string>
+    <string name="reamur">Re \n Reamur</string>
+    <string name="konversi">Konversikan</string>
+    <string name="miligram">mg \n Miligram</string>
+    <string name="gram">g \n gram</string>
+    <string name="kilogram">kg \n Kilogram</string>
+    <string name="ton">t \n Ton</string>
+    <string name="ml">ml \n Mililiter</string>
+    <string name="l">L \n Liter</string>
+    <string name="cm3">cm3 \n Centimeter Kubik</string>
+    <string name="mkubik">m3 \n meter kubik</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jarak_array">
+        <item>Mm</item>
+        <item>Cm</item>
+        <item>dm</item>
+        <item>M</item>
+        <item>Km</item>
+    </string-array>
+</resources>
